@@ -41,6 +41,6 @@
 ---
 
 ### 📫 Connect with Me
-- 💼 LinkedIn:http//www.linkedin.com/in/akanksha-sarkar
+- 💼 LinkedIn:www.linkedin.com/in/akanksha-sarkar
 
 
