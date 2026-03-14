@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Akanksha Sarkar  
 
-🎯 Aspiring Data Analyst | Tableau Developer | QA Learner  
+🎯 Aspiring Data Analyst | Tableau Developer  
 📊 Turning raw data into meaningful insights  
 🧠 Continuous learner with project-based experience  
 
